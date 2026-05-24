@@ -1,0 +1,61 @@
+id	name	brand	category	subcategory	size_value	size_unit	plastic_grams	primary_material	confidence	source	barcode	recyclable_pct	bioplastic_pct	keywords	aliases	region	updated_at
+oat-milk-oatly-64oz	Oatly Original Oat Milk 64oz	Oatly	dairy-alt	oat-milk	64	fl_oz	42	HDPE	measured	Internal weighing 2025-11-14	0698178830026	90	0	oat,oatly,oatmilk,oat milk	["OATLY OAT MILK","OATLY ORIG"]	US	2026-04-12
+oat-milk-tj-32oz	Trader Joe's Oat Beverage 32oz	Trader Joe's	dairy-alt	oat-milk	32	fl_oz	18	LDPE	measured	Internal weighing 2025-12-02		85	0	oat,trader joes,oat beverage	["TJ OAT BEV","TJS OAT BEVERAGE"]	US	2026-04-12
+almond-milk-silk-64oz	Silk Almond Milk 64oz	Silk	dairy-alt	almond-milk	64	fl_oz	46	LDPE	measured	Internal weighing 2025-10-22	0025293002098	80	0	almond,silk,almond milk	["SILK ALMOND"]	US	2026-04-12
+milk-organic-valley-gallon	Organic Valley Whole Milk 1gal	Organic Valley	dairy	milk	128	fl_oz	58	HDPE	measured	Internal weighing 2025-11-03	0093966001587	95	0	milk,organic valley,whole milk	["OV WHOLE MILK"]	US	2026-04-12
+yogurt-fage-32oz	Fage Total 0% Greek Yogurt 32oz	Fage	dairy	yogurt	32	oz	38	PP	measured	Internal weighing 2025-11-14	0689544040019	40	0	yogurt,fage,greek	["FAGE 0%","FAGE GREEK YOGURT"]	US	2026-04-12
+butter-kerrygold-8oz	Kerrygold Salted Butter 8oz	Kerrygold	dairy	butter	8	oz	4	LDPE	measured	Internal weighing 2025-12-09	0767707000015	30	0	butter,kerrygold	["KERRYGOLD BUTTER"]	US	2026-04-12
+cheese-cabot-cheddar-8oz	Cabot Sharp Cheddar 8oz	Cabot	dairy	cheese	8	oz	7	multilayer	measured	Internal weighing 2025-11-21	0078354700013	10	0	cheese,cheddar,cabot	["CABOT CHEDDAR","CABOT SHARP"]	US	2026-04-12
+eggs-paper-carton-dozen	Generic Eggs Paper Carton (12)		dairy	eggs	12	count	0	none	measured	Paper carton no plastic		100	0	eggs,dozen	["LARGE EGGS","GRADE A EGGS"]	global	2026-04-12
+eggs-plastic-carton-dozen	Generic Eggs Plastic Carton (12)		dairy	eggs	12	count	32	PET	measured	Internal weighing 2025-11-08		90	0	eggs,dozen plastic	["LARGE EGGS PLASTIC"]	US	2026-04-12
+water-poland-spring-16.9-24pk	Poland Spring 16.9oz 24pk	Poland Spring	beverages	water	406	fl_oz	288	PET	measured	Internal weighing 2025-10-15	0075720000050	95	0	water,poland spring,bottled water	["POLAND SPRING WATER"]	US	2026-04-12
+water-smartwater-1l	Smartwater 1L	Smartwater	beverages	water	1	l	28	PET	measured	Internal weighing 2025-11-30	0786162001016	95	0	water,smartwater	["SMARTWATER"]	US	2026-04-12
+soda-coca-cola-12oz-12pk	Coca-Cola 12oz Cans 12pk	Coca-Cola	beverages	soda	144	fl_oz	12	LDPE	measured	Plastic ring/wrap only - cans aluminum	0049000028928	80	0	coke,coca cola,soda	["COCA-COLA 12PK","COKE 12PK"]	US	2026-04-12
+juice-oj-tropicana-52oz	Tropicana Pure Premium OJ 52oz	Tropicana	beverages	juice	52	fl_oz	52	HDPE	measured	Internal weighing 2025-11-04	0048500102015	85	0	juice,orange juice,tropicana,oj	["TROPICANA OJ"]	US	2026-04-12
+beer-modelo-6pk	Modelo Especial 6pk Bottles	Modelo	beverages	beer	72	fl_oz	8	LDPE	measured	Plastic carrier only - bottles glass	0070000005213	75	0	beer,modelo	["MODELO 6PK"]	US	2026-04-12
+bananas-loose	Loose Bananas		produce	fruit	1	count	0	none	measured	No packaging		100	0	banana,bananas	["BANANAS LB","BANANAS"]	global	2026-04-12
+bananas-bagged	Bagged Bananas (5ct)		produce	fruit	5	count	4	LDPE	measured	Internal weighing 2025-12-01		60	0	banana,bagged bananas	["BANANAS BAG"]	US	2026-04-12
+spinach-prewashed-5oz	Pre-washed Baby Spinach 5oz		produce	leafy-greens	5	oz	18	PET	measured	Clamshell weighing 2025-11-28		30	0	spinach,baby spinach,salad	["BABY SPINACH","ORG SPINACH"]	US	2026-04-12
+spinach-bulk	Bulk Spinach (loose)		produce	leafy-greens	1	count	0	none	measured	No packaging		100	0	spinach loose,bulk spinach	["SPINACH BULK"]	global	2026-04-12
+berries-strawberries-1lb	Strawberries Clamshell 1lb		produce	berries	1	count	22	PET	measured	Internal weighing 2025-11-18		40	0	strawberries,berries,strawberry	["STRAWBERRIES 1LB","STRAWB"]	US	2026-04-12
+salad-mix-bagged-5oz	Mixed Greens Bag 5oz		produce	salad-mix	5	oz	9	PP	measured	Internal weighing 2025-12-06		20	0	salad,mixed greens,spring mix	["SPRING MIX","MIXED GREENS"]	US	2026-04-12
+avocado-loose	Loose Avocado		produce	fruit	1	count	0	none	measured	No packaging		100	0	avocado,avocados	["AVOCADO","HASS AVO"]	global	2026-04-12
+chicken-breast-tray-1lb	Chicken Breast Foam Tray 1lb		meat-fish	poultry	1	lb	18	PS	measured	Foam tray + film wrap weighing		15	0	chicken,chicken breast,poultry	["CHICKEN BREAST","CHKN BRST"]	US	2026-04-12
+salmon-fillet-1lb	Salmon Fillet Vacuum Pack 1lb		meat-fish	fish	1	lb	12	multilayer	measured	Internal weighing 2025-11-25		5	0	salmon,fish,fillet	["SALMON FILLET","WILD SALMON"]	US	2026-04-12
+ground-beef-1lb	Ground Beef Plastic-wrapped 1lb		meat-fish	beef	1	lb	14	LDPE	measured	Foam tray + film wrap		15	0	ground beef,beef,hamburger	["GROUND BEEF","GRND BEEF"]	US	2026-04-12
+bread-dave-killer-27oz	Dave's Killer Bread 27oz	Dave's Killer Bread	bakery	bread	27	oz	12	LDPE	measured	Internal weighing 2025-11-12	0013764810051	40	0	bread,daves killer	["DAVES KILLER","DKB"]	US	2026-04-12
+bread-sourdough-bakery	Bakery Sourdough Loaf (paper bag)		bakery	bread	1	count	0	none	measured	Paper bag only		100	0	sourdough,bakery bread	["SOURDOUGH","SOURDOUGH LOAF"]	global	2026-04-12
+tortillas-mission-flour-10ct	Mission Flour Tortillas 10ct	Mission	bakery	tortillas	10	count	8	LDPE	measured	Internal weighing 2025-12-01	0073731000663	50	0	tortilla,mission,flour tortilla	["MISSION TORTILLA"]	US	2026-04-12
+pasta-barilla-1lb	Barilla Spaghetti 1lb	Barilla	pantry-dry	pasta	1	lb	4	paper	measured	Mostly paper - small plastic window	0076808230208	90	0	pasta,barilla,spaghetti	["BARILLA PASTA"]	US	2026-04-12
+rice-jasmine-5lb	Jasmine Rice 5lb Bag		pantry-dry	rice	5	lb	22	PP	measured	Woven plastic bag weighing		30	0	rice,jasmine rice	["JASMINE RICE"]	US	2026-04-12
+cereal-cheerios-12oz	Cheerios 12oz	General Mills	pantry-dry	cereal	12	oz	16	LDPE	measured	Inner bag + cardboard box	0016000275249	70	0	cereal,cheerios	["CHEERIOS"]	US	2026-04-12
+peanut-butter-skippy-16oz	Skippy Creamy PB 16oz	Skippy	pantry-canned	peanut-butter	16	oz	34	PET	measured	Internal weighing 2025-11-17	0037600105507	90	0	peanut butter,skippy,pb	["SKIPPY PB","PEANUT BUTTER"]	US	2026-04-12
+beans-black-canned-15oz	Black Beans Can 15oz		pantry-canned	beans	15	oz	2	LDPE	measured	Plastic liner inside can		5	0	black beans,canned beans	["BLK BEANS","BLACK BEANS"]	US	2026-04-12
+olive-oil-california-25oz	California Olive Ranch Olive Oil 25oz	California Olive Ranch	condiments	oil	25	fl_oz	0	glass	measured	Glass bottle no plastic outer	0850016000019	100	0	olive oil,california olive ranch	["CALIFORNIA OLIVE","COR OLIVE OIL"]	US	2026-04-12
+ketchup-heinz-32oz	Heinz Ketchup Squeeze 32oz	Heinz	condiments	ketchup	32	oz	48	PET	measured	Internal weighing 2025-12-04	0013000006101	90	0	ketchup,heinz	["HEINZ KETCHUP"]	US	2026-04-12
+mayo-hellmanns-30oz	Hellmann's Mayo 30oz	Hellmann's	condiments	mayo	30	oz	52	PET	measured	Internal weighing 2025-11-19	0048001215047	90	0	mayo,hellmanns,mayonnaise	["HELLMANNS","HELLMANS MAYO"]	US	2026-04-12
+ice-cream-ben-jerry-pint	Ben & Jerry's Pint	Ben & Jerry's	frozen	ice-cream	16	fl_oz	4	paper	measured	Paper tub with thin lining	0076840100620	80	0	ice cream,ben jerry,bj	["BEN JERRY"]	US	2026-04-12
+frozen-pizza-digiorno	DiGiorno Pizza 26oz	DiGiorno	frozen	pizza	26	oz	14	LDPE	measured	Plastic wrap + cardboard	0071921015060	60	0	pizza,digiorno,frozen pizza	["DIGIORNO"]	US	2026-04-12
+frozen-veg-broccoli-12oz	Frozen Broccoli 12oz Bag		frozen	vegetables	12	oz	8	LDPE	measured	Plastic bag		50	0	frozen broccoli,broccoli	["FROZEN BROC","BROCCOLI FRZ"]	US	2026-04-12
+chips-doritos-9.75oz	Doritos Nacho Cheese 9.75oz	Doritos	snacks	chips	9.75	oz	12	multilayer	measured	Metallized PP bag	0028400433716	5	0	doritos,chips,nacho	["DORITOS NACHO"]	US	2026-04-12
+chips-lays-13oz	Lay's Classic 13oz	Lay's	snacks	chips	13	oz	16	multilayer	measured	Metallized PP bag	0028400064057	5	0	lays,chips,potato chips	["LAYS"]	US	2026-04-12
+crackers-triscuit-9oz	Triscuit Original 9oz	Triscuit	snacks	crackers	9	oz	12	LDPE	measured	Inner sleeve + box	0044000028244	60	0	triscuit,crackers	["TRISCUIT"]	US	2026-04-12
+bars-clif-12pk	Clif Bars 12pk	Clif Bar	snacks	bars	12	count	28	multilayer	measured	12 individual wrappers	0722252101303	5	0	clif bar,energy bar	["CLIF BARS"]	US	2026-04-12
+candy-mms-peanut-1.74oz	M&M's Peanut 1.74oz	M&M's	snacks	candy	1.74	oz	4	multilayer	measured	Metallized PP wrapper	0040000485940	5	0	mms,m&ms,peanut mms	["M&MS PEANUT"]	US	2026-04-12
+shampoo-pantene-12oz	Pantene Pro-V Shampoo 12oz	Pantene	personal-care	shampoo	12	fl_oz	38	HDPE	measured	Internal weighing 2025-11-23	0080878040179	80	0	shampoo,pantene	["PANTENE SHAMPOO"]	US	2026-04-12
+shampoo-bar-ethique	Ethique Shampoo Bar	Ethique	personal-care	shampoo	1	count	0	none	measured	Compostable cardboard box		100	0	shampoo bar,ethique	["ETHIQUE BAR"]	global	2026-04-12
+body-wash-dove-22oz	Dove Body Wash 22oz	Dove	personal-care	body-wash	22	fl_oz	62	HDPE	measured	Internal weighing 2025-12-02	0011111608030	85	0	dove,body wash	["DOVE BW","DOVE BODY"]	US	2026-04-12
+toothpaste-colgate-6oz	Colgate Total 6oz	Colgate	personal-care	toothpaste	6	oz	18	LDPE	measured	Multilayer tube	0035000760180	5	0	colgate,toothpaste	["COLGATE"]	US	2026-04-12
+detergent-tide-92oz	Tide Liquid Detergent 92oz	Tide	household	laundry	92	fl_oz	142	HDPE	measured	Internal weighing 2025-11-09	0037000829720	90	0	tide,detergent,laundry	["TIDE"]	US	2026-04-12
+detergent-pods-tide-42ct	Tide Pods 42ct	Tide	household	laundry	42	count	38	PVA	measured	PVA film + plastic tub	0037000931225	0	0	tide pods,laundry pods	["TIDE PODS"]	US	2026-04-12
+dish-soap-dawn-19.4oz	Dawn Dish Soap 19.4oz	Dawn	household	dish-soap	19.4	fl_oz	42	HDPE	measured	Internal weighing 2025-11-30	0037000970408	90	0	dawn,dish soap	["DAWN"]	US	2026-04-12
+paper-towels-bounty-6pk	Bounty Paper Towels 6 Rolls	Bounty	household	paper-goods	6	count	24	LDPE	measured	Plastic outer wrap only	0037000917113	60	0	paper towels,bounty	["BOUNTY 6PK"]	US	2026-04-12
+toilet-paper-charmin-12pk	Charmin Ultra Soft 12 Rolls	Charmin	household	paper-goods	12	count	38	LDPE	measured	Plastic outer wrap	0037000964216	60	0	charmin,toilet paper,tp	["CHARMIN 12PK"]	US	2026-04-12
+diapers-pampers-baby-dry-92ct	Pampers Baby Dry Size 3 92ct	Pampers	baby	diapers	92	count	42	LDPE	measured	Outer bag - diapers themselves contain plastic	0037000863427	5	0	pampers,diapers,baby dry	["PAMPERS"]	US	2026-04-12
+dog-food-blue-buffalo-15lb	Blue Buffalo Life Protection 15lb	Blue Buffalo	pet	dry-food	15	lb	68	multilayer	measured	Foil-lined bag	0840243101061	5	0	dog food,blue buffalo	["BLUE BUFFALO"]	US	2026-04-12
+cat-litter-fresh-step-25lb	Fresh Step Cat Litter 25lb	Fresh Step	pet	litter	25	lb	52	LDPE	measured	Plastic jug	0044600326733	80	0	cat litter,fresh step	["FRESH STEP"]	US	2026-04-12
+deli-salad-bar-container	Salad Bar Container (large)		prepared-food	deli	1	count	32	PET	measured	Clamshell container		40	0	salad bar,deli salad	["SALAD BAR LG"]	US	2026-04-12
+coffee-starbucks-cup-grande	Starbucks Grande Plastic Cup	Starbucks	prepared-food	beverages	16	fl_oz	16	PET	measured	Cup + lid + straw		30	0	starbucks,iced coffee,grande	["SBX GRANDE"]	US	2026-04-12
+coffee-bag-stumptown-12oz	Stumptown Coffee Beans 12oz	Stumptown	pantry-dry	coffee	12	oz	9	multilayer	measured	Foil-lined bag	0855350001012	5	0	coffee,stumptown,beans	["STUMPTOWN"]	US	2026-04-12
+amazon-padded-mailer-small	Amazon Padded Mailer (small)	Amazon	other	shipping	1	count	28	LDPE	measured	Bubble mailer envelope		5	0	amazon mailer,shipping	["AMZN MAILER"]	global	2026-04-12
+amazon-box-medium	Amazon Box w/ Air Pillows	Amazon	other	shipping	1	count	14	LDPE	measured	Air pillows only - box recyclable		40	0	amazon box,shipping	["AMZN BOX"]	global	2026-04-12
