@@ -1,0 +1,20 @@
+category	avg_plastic_per_unit	unit	typical_material	confidence	notes
+beverages	45	per_item	PET	category-avg	Bottled drinks; varies widely by size
+dairy	28	per_item	HDPE	category-avg	Milk/yogurt/cheese mix; mostly recyclable
+dairy-alt	32	per_item	HDPE	category-avg	Plant milks in cartons or bottles
+produce	6	per_item	LDPE	category-avg	Most produce loose; bagged adds plastic
+meat-fish	16	per_lb	multilayer	category-avg	Trays + film; hard to recycle
+bakery	8	per_item	LDPE	category-avg	Bread bags; bakery often paper
+pantry-dry	12	per_item	LDPE	category-avg	Sleeves and bags inside cardboard
+pantry-canned	3	per_item	LDPE	category-avg	Mostly metal but liner counts
+condiments	42	per_item	PET	category-avg	Squeeze bottles dominate
+frozen	10	per_item	LDPE	category-avg	Plastic wrap or bag
+snacks	14	per_item	multilayer	category-avg	Chip bags worst offenders
+personal-care	38	per_item	HDPE	category-avg	Bottles dominate; bars are 0g
+household	52	per_item	HDPE	category-avg	Detergent bottles heaviest
+baby	40	per_item	LDPE	category-avg	Outer packaging only
+pet	55	per_item	multilayer	category-avg	Large bags + tubs
+apparel	18	per_item	LDPE	category-avg	Poly bags from shipping
+electronics	32	per_item	multilayer	category-avg	Inner packaging, foam, ties
+prepared-food	22	per_item	PET	category-avg	Clamshells and cups dominate
+other	15	per_item	LDPE	inferred	Generic fallback
