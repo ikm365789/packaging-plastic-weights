@@ -1,4 +1,4 @@
-# Loop Plastic Data
+# Packaging Plastic Weights
 
 An open dataset of **plastic packaging weights** for everyday consumer products. 60 measured products + 19 category averages, with sources, confidence levels, and barcodes.
 
@@ -76,7 +76,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for the submission process. The short ve
 
 If you use this dataset in research, please cite it. See [CITATION.cff](CITATION.cff), or use:
 
-> Loop Plastic Data. (2026). *An open dataset of consumer packaging weights.*
+> Packaging Plastic Weights. (2026). *An open dataset of consumer packaging weights.*
 > https://github.com/ikm365789/packaging-plastic-weights
 
 ## License
