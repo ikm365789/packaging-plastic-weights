@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Packaging Plastic Weights"
+abstract: >-
+  An open dataset of plastic packaging weights for everyday consumer
+  products, with measured and inferred values, sources, confidence
+  tiers, and barcode references.
+type: dataset
+authors:
+  - name: "Loop contributors"
+    website: "https://github.com/ikm365789/packaging-plastic-weights"
+keywords:
+  - plastic
+  - packaging
+  - sustainability
+  - consumer products
+  - open data
+  - lca
+license: CC-BY-SA-4.0
+version: "0.1.0"
+date-released: "2026-05-21"
+url: "https://github.com/ikm365789/packaging-plastic-weights"
+repository-code: "https://github.com/ikm365789/packaging-plastic-weights"
